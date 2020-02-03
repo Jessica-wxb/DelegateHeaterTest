@@ -10,6 +10,5 @@ package DeledateTest;
 public class DisplayListener {
     public void showTemperature(Integer date) {
         System.out.println("水烧开时显示的温度是："+date);
-        System.out.println("测试git提交是否成功");
     }
 }
